@@ -1,0 +1,21 @@
+body {
+    background-color: mediumvioletred;
+    font-family: cursive;
+    text-align: center;
+color: aqua;    
+}
+
+h2 {
+color: #50ed34;    
+    font-size: 45px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a
+{
+   color:yellow
+}
